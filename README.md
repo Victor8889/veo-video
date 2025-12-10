@@ -17,8 +17,7 @@
 运行：
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
 
 
@@ -27,3 +26,5 @@
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/99a0a4d9-027f-42a2-beae-19a5afc132f1" />
 <img width="151" height="336" alt="image" src="https://github.com/user-attachments/assets/ec4d7332-9b92-47ee-b242-bdf85845e365" />
 <img width="324" height="696" alt="image" src="https://github.com/user-attachments/assets/6f3bc2ad-046e-4144-b4d7-328b9042415b" />
+
+各位大佬，辛苦点个star，感谢
