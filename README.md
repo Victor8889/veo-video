@@ -10,7 +10,7 @@
 
 1、此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
 
-2、乘丰AI（https://api.cphone.vip） 作为后端而开发的
+2、乘丰AI https://api.cphone.vip  作为后端而开发的
 
 3、支持模型：veo3.1, veo3.1-pro, veo3.1-components, veo2, veo2-fast, veo2-fast-components, veo2-fast-frames, veo2-pro, veo3, veo3-fast, veo3-fast-frames, veo3-frames, veo3-pro, veo3-pro-frames
 
